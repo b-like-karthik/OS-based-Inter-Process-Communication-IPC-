@@ -1,5 +1,6 @@
 # OS-based-Inter-Process-Communication-IPC-
 Do this on one shell:
+
 $ make
 
 $ ./gengraph > graph.txt
